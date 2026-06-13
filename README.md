@@ -5,13 +5,14 @@
 **Dosen:** Ferdi Chahyadi, S.Kom., M.Cs
 
 ## Anggota Kelompok
-| NIM | Nama | Peran |
+| NIM | Nama | PIC |
 |-----|------|-------|
-| 2401020071 | Auriel Lifta Ekeriana G |  |
-| 2401020070 | Meyky Ajmariadi | |
-| 2401020069 | Balqis Manisa | |
-| 2401020068 | Yura Ramadhani |  |
-| 2401020057 | Rauf Hidayat |  |
+| 2401020071 | Auriel Lifta Ekeriana G | Persiapan infrastruktur simulasi GNS3 dan optimasi sumber daya Virtual Machine. |
+| 2401020070 | Meyky Ajmariadi | Perancangan topologi fisik jaringan dan konfigurasi routing sentral pada Router ISP. |
+| 2401020069 | Balqis Manisa | Implementasi pengalamatan IP, Default Route, dan NAT pada infrastruktur Pelanggan B. |
+| 2401020068 | Yura Ramadhani | Implementasi pengalamatan IP, Default Route, dan NAT pada infrastruktur Pelanggan A. |
+| 2401020057 | Rauf Hidayat | Integrasi jaringan cloud dan konfigurasi Ubuntu Server Publik. |
+
 
 ## Struktur Folder
 - `proposal-analisis/` - Proposal dan analisis kebutuhan
