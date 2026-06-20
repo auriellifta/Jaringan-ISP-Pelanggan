@@ -88,6 +88,4 @@ Lampiran hasil screenshot ping, traceroute, dan routing table setelah pengujian 
 
 ## 🎥 Video Demonstrasi
 
-## 🎥 Video Demonstrasi
-
 [🔗 Lihat Video Demontrasi P2 (Google Drive)](https://drive.google.com/drive/folders/17EpCW0anurYU23_32C4fckqWn-3hpc5P?usp=drive_link)
