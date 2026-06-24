@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="diagram/topologi_final.jpg" alt="Topologi Jaringan ISP dan Pelanggan" width="100%" style="border-radius:12px"/>
+<img src="docs/Progres 2/topologi_final.jpg" alt="Topologi Jaringan ISP dan Pelanggan" width="100%" style="border-radius:12px"/>
 
 <br/>
 <br/>
@@ -51,14 +51,8 @@
 
 ## 📂 Struktur Folder
 
-- `proposal-analisis/` - Proposal dan analisis kebutuhan
-- `diagram/` - Topologi jaringan ([Draw.io Link](https://drive.google.com/file/d/12KQ1QZL_3OpRYxx2t5PJQMMtXIvLQap8/view?usp=sharing))
-- `ip-subnetting/` - Tabel IP dan subnetting
-- `konfigurasi/` - Screenshot konfigurasi router & server
-- `gns3-files/` - File proyek GNS3
-- `pengujian/` - Hasil ping, traceroute, routing table
-- `video-demo/` - Video demonstrasi (link YouTube)
-- `laporan-akhir/` - Laporan akhir & slide presentasi
+- `docs/` - Dokumentasi proyek (Proposal, Ringkasan, Laporan Kemajuan, Diagram, dll.) yang dipisah per Progres 1, 2, dan 3
+- `GNS3/` - File simulasi GNS3 yang dibagi per Minggu 2 dan Minggu 3
 
 ---
 
@@ -73,16 +67,9 @@
 
 ## ⚙️ Cara Menjalankan Simulasi
 
-1. Buka GNS3, import file `gns3-files/topologi_isp.gns3`
+1. Buka GNS3, import file `.gns3` dari folder `GNS3/Minggu 2/` atau `GNS3/Minggu 3/`
 2. Start semua perangkat (router ISP, router pelanggan, Ubuntu Server, Ubuntu Client)
-3. Konfigurasi IP sesuai tabel di folder `ip-subnetting/`
-4. Jalankan konfigurasi routing dan NAT seperti di folder `konfigurasi/`
-
----
-
-## 🧪 Hasil Pengujian
-
-Lampiran hasil screenshot ping, traceroute, dan routing table setelah pengujian selesai.
+3. Konfigurasi IP sesuai tabel/dokumentasi di folder `docs/` masing-masing progres.
 
 ---
 
