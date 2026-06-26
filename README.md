@@ -5,6 +5,9 @@
 <img src="docs/Progres 2/topologi_final.jpg" alt="Topologi Jaringan ISP dan Pelanggan" width="100%" style="border-radius:12px"/>
 
 <br/>
+
+[🔗 Lihat Topologi Interaktif di Draw.io (Google Drive)](https://drive.google.com/file/d/12KQ1QZL_3OpRYxx2t5PJQMMtXIvLQap8/view?usp=sharing)
+
 <br/>
 
 <h1>
@@ -21,47 +24,58 @@
 
 <br/>
 
-[🔗 Lihat Topologi Interaktif di Draw.io (Google Drive)](https://drive.google.com/file/d/12KQ1QZL_3OpRYxx2t5PJQMMtXIvLQap8/view?usp=sharing)
-
-<br/>
-
 </div>
 
 ---
 
 ## 📝 Informasi Proyek
 
-- **Kelompok:** 5  
-- **Mata Kuliah:** Jaringan Komputer dan Komunikasi Data  
-- **Dosen:** Ferdi Chahyadi, S.Kom., M.Cs  
+- **Kelompok:** 5
+- **Mata Kuliah:** Jaringan Komputer dan Komunikasi Data
+- **Dosen:** Ferdi Chahyadi, S.Kom., M.Cs
 
 ---
 
 ## 👥 Anggota Kelompok
 
-| NIM | Nama | PIC |
-|-----|------|-------|
-| 2401020071 | Auriel Lifta Ekeriana G | Persiapan infrastruktur simulasi GNS3 dan optimasi sumber daya Virtual Machine. |
-| 2401020070 | Meyky Ajmariadi | Perancangan topologi fisik jaringan dan konfigurasi routing sentral pada Router ISP. |
-| 2401020069 | Balqis Manisa | Implementasi pengalamatan IP, Default Route, dan NAT pada infrastruktur Pelanggan B. |
-| 2401020068 | Yura Ramadhani | Implementasi pengalamatan IP, Default Route, dan NAT pada infrastruktur Pelanggan A. |
-| 2401020057 | Rauf Hidayat | Integrasi jaringan cloud dan konfigurasi Ubuntu Server Publik. |
+| NIM        | Nama                    | PIC                                                                                  |
+| ---------- | ----------------------- | ------------------------------------------------------------------------------------ |
+| 2401020071 | Auriel Lifta Ekeriana G | Persiapan infrastruktur simulasi GNS3 dan optimasi sumber daya Virtual Machine.      |
+| 2401020070 | Meyky Ajmariadi         | Perancangan topologi fisik jaringan dan konfigurasi routing sentral pada Router ISP. |
+| 2401020069 | Balqis Manisa           | Implementasi pengalamatan IP, Default Route, dan NAT pada infrastruktur Pelanggan B. |
+| 2401020068 | Yura Ramadhani          | Implementasi pengalamatan IP, Default Route, dan NAT pada infrastruktur Pelanggan A. |
+| 2401020057 | Rauf Hidayat            | Integrasi jaringan cloud dan konfigurasi Ubuntu Server Publik.                       |
 
 ---
 
 ## 📂 Struktur Folder
 
-- `docs/` - Dokumentasi proyek (Proposal, Ringkasan, Laporan Kemajuan, Diagram, dll.) yang dipisah per Progres 1, 2, dan 3
-- `GNS3/` - File simulasi GNS3 yang dibagi per Minggu 2 dan Minggu 3
+```
+Jaringan-ISP-Pelanggan/
+├── README.md
+├── docs/
+│   ├── Progres 1/
+│   │   ├── LAPORAN PROPOSAL KELOMPOK 5.pdf
+│   │   └── Ringkasan Jaringan Komputer Kelompok 5.pdf
+│   ├── Progres 2/
+│   │   ├── Dokumentasi Konfigurasi Router, Server, dan Client.pdf
+│   │   ├── Laporan Kemajuan P2 Infrastruktur Jaringan ISP dan Pelanggan.pdf
+│   │   └── topologi_final.jpg
+│   └── Progres 3/
+└── GNS3/
+    ├── Minggu 2/
+    │   └── Infrastruktur-Jaringan-ISP-dan-Pelanggan.gns3
+    └── Minggu 3/
+        └── Infrastruktur-Jaringan-ISP-dan-Pelanggan.gns3
+```
 
 ---
 
 ## 📈 Progress Proyek
 
-- [x] **Progres 1 (13 Juni):** Proposal, diagram, tabel IP
-- [ ] **Progres 2 (20 Juni):** Implementasi routing dasar
-- [ ] **Progres 3 (27 Juni):** NAT & akses internet
-- [ ] **Final (1-3 Juli):** Laporan & slide
+- [x] **Progres 1 (13 Juni):** Persiapan Infrastruktur Simulasi GNS3 dan Optimasi Sumber Daya Virtual Machine, Proposal, diagram, tabel IP
+- [x] **Progres 2 (20 Juni):** Implementasi Routing Dasar
+- [x] **Progres 3 & Final (27 Juni):** Implementasi Lanjutan Routing dan Akses Internet, NAT & akses internet, laporan & slide
 
 ---
 
@@ -75,4 +89,14 @@
 
 ## 🎥 Video Demonstrasi
 
-[🔗 Lihat Video Demontrasi P2 (Google Drive)](https://drive.google.com/drive/folders/17EpCW0anurYU23_32C4fckqWn-3hpc5P?usp=drive_link)
+### Minggu 1 — Persiapan Infrastruktur Simulasi GNS3 dan Optimasi Sumber Daya Virtual Machine
+
+[![Minggu 1 - Persiapan Infrastruktur Simulasi GNS3 dan Optimasi Sumber Daya Virtual Machine](https://markdown-videos-api.jorgenkh.no/youtube/SIT5lXf8_V4)](https://youtu.be/SIT5lXf8_V4)
+
+### Minggu 2 — Implementasi Routing Dasar
+
+[![Minggu 2 - Implementasi Routing Dasar](https://markdown-videos-api.jorgenkh.no/youtube/aIK461gUIlI)](https://youtu.be/aIK461gUIlI)
+
+### Minggu 3 — Implementasi Lanjutan Routing dan Akses Internet
+
+[![Minggu 3 - Implementasi Lanjutan Routing dan Akses Internet](https://markdown-videos-api.jorgenkh.no/youtube/HrsmgFGuCME)](https://youtu.be/HrsmgFGuCME)
