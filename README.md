@@ -30,7 +30,7 @@
 
 ## 📝 Informasi Proyek
 
-- **Kelompok:** 5
+- **Kelompok:** 1
 - **Mata Kuliah:** Jaringan Komputer dan Komunikasi Data
 - **Dosen:** Ferdi Chahyadi, S.Kom., M.Cs
 
@@ -61,7 +61,10 @@ Jaringan-ISP-Pelanggan/
 │   │   ├── Dokumentasi Konfigurasi Router, Server, dan Client.pdf
 │   │   ├── Laporan Kemajuan P2 Infrastruktur Jaringan ISP dan Pelanggan.pdf
 │   │   └── topologi_final.jpg
-│   └── Progres 3/
+│   ├── Progres 3/
+│   │   ├── LAPORAN KEMAJUAN PROGRES MINGGU 3 KELOMPOK 1.pdf
+│   └── Laporan Akhir/
+│       ├── LAPORAN AKHIR KELOMPOK 1 Infrastruktur Jaringan ISP dan Pelanggan.pdf
 └── GNS3/
     ├── Minggu 2/
     │   └── Infrastruktur-Jaringan-ISP-dan-Pelanggan.gns3
