@@ -64,7 +64,7 @@ Jaringan-ISP-Pelanggan/
 │   ├── Progres 3/
 │   │   ├── LAPORAN KEMAJUAN PROGRES MINGGU 3 KELOMPOK 1.pdf
 │   └── Laporan Akhir/
-│       ├── LAPORAN AKHIR KELOMPOK 1 Infrastruktur Jaringan ISP dan Pelanggan.pdf
+│       └── LAPORAN AKHIR KELOMPOK 1 Infrastruktur Jaringan ISP dan Pelanggan.pdf
 └── GNS3/
     ├── Minggu 2/
     │   └── Infrastruktur-Jaringan-ISP-dan-Pelanggan.gns3
